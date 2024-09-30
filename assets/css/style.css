@@ -2911,7 +2911,7 @@ select:visited {
 }
 
 .ft-thx-banner-text .ft-thx-banner-btn a:hover {
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-thx-banner-courier-form {
@@ -3044,7 +3044,7 @@ select:visited {
   font-weight: 700;
   border-radius: 5px;
   border-radius: 5px;
-  background-color: #008eff;
+  background-color: #fdad11;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -3060,7 +3060,7 @@ select:visited {
 }
 
 .ft-thx-banner-courier-form p a {
-  color: #008eff;
+  color: #fdad11;
 }
 
 #rev_slider_30_1_wrapper .gyges .tp-thumb {
@@ -3562,8 +3562,8 @@ select:visited {
 
 .ft-about-text-3 .ft-about-btn-group a:hover {
   color: #fff;
-  border: 2px solid #008eff;
-  background-color: #008eff;
+  border: 2px solid #fdad11;
+  background-color: #fdad11;
 }
 
 @-webkit-keyframes icon-bounce {
@@ -4423,7 +4423,7 @@ select:visited {
   content: "";
   height: 15px;
   position: absolute;
-  background-color: #008eff;
+  background-color: #fdad11;
   -webkit-transform: rotate(-12deg) skew(-15deg);
   transform: rotate(-12deg) skew(-15deg);
 }
@@ -4452,7 +4452,7 @@ select:visited {
   font-weight: 700;
   position: relative;
   padding: 14px 26px;
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-service-innerbox-3 .more-btn a:before {
@@ -4464,7 +4464,7 @@ select:visited {
   position: absolute;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  border-bottom: 49px solid #008eff;
+  border-bottom: 49px solid #fdad11;
   border-left: 16px solid transparent;
 }
 
@@ -4513,7 +4513,7 @@ select:visited {
   font-weight: 700;
   margin-left: 20px;
   padding: 10px 30px;
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-service-more-btn a:hover {
@@ -5158,7 +5158,7 @@ select:visited {
   top: 2px;
   left: 0;
   font-size: 18px;
-  color: #008eff;
+  color: #fdad11;
   content: "";
   font-weight: 900;
   position: absolute;
@@ -5294,7 +5294,7 @@ select:visited {
   font-weight: 700;
   border-radius: 5px;
   border-radius: 5px;
-  background-color: #008eff;
+  background-color: #fdad11;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -5310,7 +5310,7 @@ select:visited {
 }
 
 .ft-why-choose-form p a {
-  color: #008eff;
+  color: #fdad11;
 }
 
 .ft-thx-why-choose-us-section {
@@ -7087,7 +7087,7 @@ select:visited {
 .ft-testimonial-slider-items-3:before {
   top: 0;
   left: 5px;
-  color: #008eff;
+  color: #fdad11;
   font-size: 40px;
   content: "";
   font-weight: 900;
@@ -7121,7 +7121,7 @@ select:visited {
 .ft-testimonial-slider-3 .slick-dots li.slick-active {
   color: #0b0b0b;
   font-size: 18px;
-  border: 4px solid #008eff;
+  border: 4px solid #fdad11;
 }
 
 .ft-thx-testimonial-section {
@@ -8575,7 +8575,7 @@ select:visited {
 }
 
 .ft-blog-innerbox-3 .ft-blog-text .more-btn:hover {
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-blog-innerbox-3:hover .ft-blog-text {
@@ -8615,7 +8615,7 @@ select:visited {
 .blog-slider-3 .slick-dots li.slick-active {
   color: #0b0b0b;
   font-size: 18px;
-  border: 4px solid #008eff;
+  border: 4px solid #fdad11;
 }
 
 .ft-side-bar-add {
@@ -10189,7 +10189,7 @@ select:visited {
 }
 
 .ft-funfact-slug-text span a {
-  color: #008eff;
+  color: #fdad11;
   font-weight: 700;
   text-decoration: underline;
 }
@@ -10564,7 +10564,7 @@ select:visited {
   height: 50px;
   font-size: 14px;
   font-weight: 700;
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-footer-section-3 .ft-newslatter-section-3 .ft-newslatter-btn a:hover {
@@ -10600,7 +10600,7 @@ select:visited {
   content: "";
   bottom: 15px;
   position: absolute;
-  background-color: #008eff;
+  background-color: #fdad11;
 }
 
 .ft-footer-content-wrap-3 .ft-footer-widget .ft-footer-logo-widget .ft-footer-logo {
@@ -10621,7 +10621,7 @@ select:visited {
   line-height: 35px;
   overflow: hidden;
   display: inline-block;
-  background-color: #008eff;
+  background-color: #fdad11;
   -webkit-transition: 0.3s all ease-in-out;
   transition: 0.3s all ease-in-out;
 }
@@ -10685,7 +10685,7 @@ select:visited {
   height: 45px;
   border: none;
   position: absolute;
-  background-color: #008eff;
+  background-color: #fdad11;
   -webkit-transition: 0.3s all ease-in-out;
   transition: 0.3s all ease-in-out;
 }
@@ -10710,7 +10710,7 @@ select:visited {
 }
 
 .ft-footer-content-wrap-3 .ft-footer-widget .ft-footer-newslatter-widget .ft-footer-social li a:hover {
-  color: #008eff;
+  color: #fdad11;
 }
 
 .ft-footer-content-wrap-3 .ft-footer-widget .ft-footer-info-widget {
@@ -10725,7 +10725,7 @@ select:visited {
   float: left;
   font-size: 14px;
   margin-top: 5px;
-  color: #008eff;
+  color: #fdad11;
   margin-right: 10px;
 }
 
